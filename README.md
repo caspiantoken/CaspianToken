@@ -2,11 +2,15 @@
 the solidity codes of the Caspian and CaspianFuel tokens. (CAS-TRC20, CAS-BEP20 and CASF-BEP20).
 
 Caspian token (CAS) is a token on Tron and Binancechain network.
+
 the Total Supply on tron network: 2,000,000,000 
+
 the Total Supply on tron BSC:     2,000,000,000 
 
 CaspianFuel token (CASF) is a token on Tron and Binancechain network.
+
 the Total Supply on tron network: 200,000,000,000 
+
 the Total Supply on tron BSC:     200,000,000,000 
 
 
